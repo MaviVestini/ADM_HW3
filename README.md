@@ -24,8 +24,8 @@ this file contains a dictionary that maps each word in the corpus of documents t
 
 - **tfidfII.pkl** is the Inverted Index implemented with *TfIdf* used to execute query for the second search engine
 
-_ **RankingList.txt**
+- **RankingList.txt**
 
--**SingleIDFs.pkl** 
+- **SingleIDFs.pkl** 
 
 - **norms.pkl**
