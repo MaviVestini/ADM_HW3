@@ -12,7 +12,7 @@ The main content is in a Jupyter Notebook file named [**main.ipynb**](https://gi
 The code comments explain the steps and approach to building different versions of the search engine.\
 The BONUS question was not answered.
 
-### Contents:
+#### Other contents:
 - **CommandLine.sh** is a bash shell script file that calls the _places_data_.csv dataset and it contains the answer to the command line question.
 
 - **all_places_data.tsv** document reference dataset
@@ -24,12 +24,8 @@ this file contains a dictionary that maps each word in the corpus of documents t
 
 - **tfidfII.pkl** is the Inverted Index implemented with *TfIdf* used to execute query for the second search engine
 
-- **RankingList.txt** text file that contains the resuts form the sorting of the **ApplicantsInfo.txt**
+- **RankingList.txt**
 
-- **SingleIDFs.pkl** file that contains a dictionary that contains the IDF of all the documents
+- **SingleIDFs.pkl** 
 
-- **norms.pkl** file that contains a dictionary that contains the norms, computed with the TF-IDFs, of all the documents
-
-# MAP
-
-GitHub doesn't display the plot, so to view the map from point 4 we saved the file as **fig.html** and it can be seen [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/MaviVestini/ADM_HW3/main/fig.html) 
+- **norms.pkl**
