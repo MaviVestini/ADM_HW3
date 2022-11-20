@@ -1,6 +1,6 @@
 # ADM_HW3
 
-Github repository to submit ADM's **Homework 3** - **[Places of the world]("https://www.atlasobscura.com/")**.<br>
+Github repository to submit ADM's **Homework 3** - **[Places of the world](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_3)**.<br>
 
 Work done and compiled by **Group 29** made up of the following members:
 - Luca Mazzucco 1997610 
